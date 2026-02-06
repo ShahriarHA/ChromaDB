@@ -8,3 +8,11 @@
 | `snowflake-arctic-embed` | Medium | Good for RAG |
 |__________________________________________________|
 
+---> ChromaDB as Agent Memory
+    --> In Agentic AI, memory types:
+    | Memory Type | Use               |
+    | ----------- | ----------------- |
+    | Short-term  | Chat history      |
+    | Long-term   | ChromaDB          |
+    | Tool memory | Past tool results |
+    |_____________|___________________|
