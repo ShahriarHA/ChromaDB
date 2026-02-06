@@ -1,0 +1,10 @@
+------------------------------------------------Notes------------------------------------------------
+---> Which Ollama embedding model should I use?
+-----------------------------------------------------------------------------------------------------
+| Model                    | Speed  | Notes        |
+| ------------------------ | -------| -------------|
+| `nomic-embed-text`       | Fast   | Best default |
+| `mxbai-embed-large`      | Slower | High quality |
+| `snowflake-arctic-embed` | Medium | Good for RAG |
+|__________________________________________________|
+
