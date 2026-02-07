@@ -16,3 +16,17 @@
     | Long-term   | ChromaDB          |
     | Tool memory | Past tool results |
     |_____________|___________________|
+
+---> Real agent flow
+    User input
+        ↓
+    Short-term memory (conversation)
+        ↓
+    Long-term memory (retrieve knowledge)
+        ↓
+    Tool memory (decide action)
+        ↓
+    LLM reasoning
+        ↓
+    Response
+
